@@ -123,6 +123,7 @@ button {
     font-size: 16px;
     font-weight: 700;
     margin-left: 500px;
+    margin-bottom: 90px;
     
 }
 .container-3-MainText {
@@ -139,4 +140,52 @@ button {
     color: #1f2937;
     font-size: 36px;
     
+}
+.container-4 {
+    display: flex;
+    justify-content: center;
+    
+}
+.blue-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    width: 800px;
+    padding: 50px;
+    margin: 60px;
+    border: #3882f6 solid ;
+    border-radius: 10px;
+}
+
+.btn-container-4 {
+    border-color: white;
+
+}
+.text-blue-container {
+    color: #f9faf8;
+    font-size: 24px;
+    font-weight: 700;
+    
+    
+
+}
+.subtext-blue-container {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: normal;
+
+}
+footer {
+    display: flex;
+    background-color: #1f2937;
+    height: 60px ;
+    justify-content: center;
+    align-items: center;
+}
+.footer {
+    color: #e5e7eb;
+    font-size: 18px;
+    font-weight: normal;
+    margin: 30px;
 }
